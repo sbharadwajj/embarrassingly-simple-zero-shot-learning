@@ -35,7 +35,7 @@ The results are taken from the paper [Zero-Shot Learning - A Comprehensive Evalu
 | SUN | 54.5 | 55.62 | Alpha=2, Gamma=2 |
 
 
-## Refrences
+## References
 
 If this repository was useful for your research, please cite.
 
